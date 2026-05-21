@@ -5,6 +5,7 @@
 **ls** = lista o conteúdo do diretório atual 
 **ls -a** = lista arquivos ocultos
 **man** = manual de comando
+**cat** = ler arquivo 
 **echo** = Imprime texto para o terminal
 **history** = mostra os comandos ja executados
 **wc** = contar caracteres
@@ -12,5 +13,9 @@
 **grep** = procura palavras chaves
 **head** = mostra as primeiras linhas de um arquivo
 **less** = mostra as últimas linhas de um arquivo
-**|** = saida do comando 1 para a entrada do comando 2 (comando1 | comando2)
+**|** = saida do comando 1 para a entrada do comando 2 (comando 1 | comando 2) 
+**$((** = calculadora do terminal 
+**$ ( )** = pega o resultado e passa para a proxima parte do comando 
+
+
 
