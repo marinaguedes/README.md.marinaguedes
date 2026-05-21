@@ -1,5 +1,6 @@
 **pwd** = mostra o diretório atual 
 **cd** = mudar de diretório (cd /...)
+**cp** = copia um arquivo ou diretório
 **ls** = lista o conteúdo do diretório atual 
 **man** = manual de comando
 **echo** = Imprime texto para o terminal
