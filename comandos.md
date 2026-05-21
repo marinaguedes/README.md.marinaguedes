@@ -16,6 +16,9 @@
 **|** = saida do comando 1 para a entrada do comando 2 (comando 1 | comando 2) 
 **$((** = calculadora do terminal 
 **$ ( )** = pega o resultado e passa para a proxima parte do comando 
+**\+** = inclui repetições (^[ATGCN]\+) 
+**[]** = ou (^[ATGCN]\+ A ou T ouG...)
+
 
 
 
