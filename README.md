@@ -1,1 +1,9 @@
-# README.md.marinaguedes
+**pwd** = mostra o diretório atual 
+**cd** = mudar de diretório (cd /...)
+**ls** = lista o conteúdo do diretório atual 
+**man** = manual de comando
+**echo** = Imprime texto para o terminal
+**history** = mostra os comandos ja executados
+**wc** = contar caracteres
+**wc -l** = número de linhas do arquivo 
+**grep** = procura um padrão
