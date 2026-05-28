@@ -18,7 +18,4 @@
 **$ ( )** = pega o resultado e passa para a proxima parte do comando 
 **\+** = inclui repetições (^[ATGCN]\+) 
 **[]** = ou (^[ATGCN]\+ A ou T ouG...)
-
-
-
-
+**find /** = busca em todo sistema
