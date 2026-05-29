@@ -20,3 +20,8 @@
 **\+** = inclui repetições (^[ATGCN]\+) 
 **[]** = ou (^[ATGCN]\+ A ou T ouG...)
 **find /** = busca em todo sistema
+**awk** = 
+**$**=
+**print** = imprimir informações na tela 
+
+
