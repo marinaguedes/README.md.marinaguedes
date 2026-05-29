@@ -1,6 +1,7 @@
 **mkdir** = cria diretório
 **pwd** = mostra o diretório atual 
 **cd** = mudar de diretório (cd /...)
+**cd ~** =
 **cp** = copia um arquivo ou diretório
 **ls** = lista o conteúdo do diretório atual 
 **ls -a** = lista arquivos ocultos
